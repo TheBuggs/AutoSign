@@ -1,7 +1,7 @@
 
 ## AutoSign
  
-![Minion](https://octodex.github.com/images/minion.png)
+![Signature](https://img.icons8.com/ios/50/000000/autograph.png)
    
 ## Decription
 
